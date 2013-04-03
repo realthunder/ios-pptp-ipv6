@@ -1,0 +1,10 @@
+Package: com.veno2.pptp-ipv6
+Name: pptp-ipv6
+Section: Networking
+Maintainer: Zheng, Lei (realthunder) <realthunder.dev@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Provides: pptp-ipv6
+Description: enable PPTP IPv6 address auto configuration (SLAAC)
+Homepage: http://www.github.com/realthunder/ios-pptp-ipv6
